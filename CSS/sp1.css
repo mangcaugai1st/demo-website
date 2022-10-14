@@ -1,0 +1,50 @@
+body {
+    margin: 0
+}
+        .top {
+            background-color: #8eba01;
+            position: relative;
+            margin: 0%;
+            padding: 15px;
+            padding-left: 90%;
+        }
+
+        .bot {
+            display: flex;            
+            justify-content: center;
+            padding-bottom: 0.5cm;
+            padding-top: 0.5cm;
+        }
+        nav{
+            background-color: #8eba01;
+            position: relative;
+            margin: 0%;
+            padding: 20px;
+            
+        }
+        nav a{
+            color: white
+            
+        }        
+        footer div {
+            background-color: #fbfcf7;
+            position: relative;
+            margin: 0%;
+            padding: 100px;
+
+        }
+        footer p {
+            text-align: center;
+        }
+
+        a {
+            text-decoration: none;
+        }
+        a:hover {
+            padding: 10px;
+            text-decoration: underline;
+        }
+
+        button:hover {
+            opacity: 0.7;
+        }
